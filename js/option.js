@@ -225,8 +225,8 @@ var option = {
                 y: 0
             }, {
                 symbolSize: 0,
-                x: 200,
-                y: 100
+                x: 214,
+                y: 50
             }, {
                 symbolSize: [35, 40],
                 symbolOffset: [20, 120],
