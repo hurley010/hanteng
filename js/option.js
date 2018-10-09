@@ -5,7 +5,7 @@ var option = {
     grid: {
         left: '0',
         right: '0',
-        bottom: '1%'
+        bottom: '0'
     },
     backgroundColor: new echarts.graphic.RadialGradient(0.62, 0.45, 1, [{
         offset: 0,
