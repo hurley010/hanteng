@@ -425,3 +425,7 @@ var option = {
 if (option && typeof option === "object") {
     myChart.setOption(option, true);
 }
+
+window.addEventListener('resize', () => {
+    myChart.resize();
+})
