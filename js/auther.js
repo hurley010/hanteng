@@ -38,4 +38,4 @@ let sEnName1 = `
 `;
 //console.log(`%c${sZhName}%c${sEnName}`, 'color: rgba(87, 213, 198, 1)', 'color: red');
 
-console.log(`%c${sFrom}%c${sZhName}%c${sEnName}%c${sZhName0}%c${sZhName1}`, 'color: black', 'color: rgba(87, 213, 198, 1);text-indent: 2em;', 'color: rgba(168, 42, 57, 1)','color: rgba(168, 42, 57, 1)', 'color: rgba(168, 42, 57, 1)');
+console.log(`%c${sFrom}%c${sZhName}%c${sEnName}%c${sEnName0}%c${sEnName1}`, 'color: black', 'color: rgba(87, 213, 198, 1);text-indent: 2em;', 'color: rgba(168, 42, 57, 1)','color: rgba(168, 42, 57, 1)', 'color: rgba(168, 42, 57, 1)');
